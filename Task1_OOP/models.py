@@ -10,7 +10,6 @@ This module demonstrates:
 - Polymorphism (method overriding, __str__)
 - Magic/Dunder methods (__str__, __repr__, __eq__, __lt__, __hash__)
 - Static methods and Class methods
-1
 """
 
 from abc import ABC, abstractmethod
