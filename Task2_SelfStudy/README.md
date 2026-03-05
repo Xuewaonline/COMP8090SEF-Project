@@ -46,3 +46,6 @@ This will demonstrate:
 
 ## Video Link
 [Your YouTube/Bilibili Link]
+
+## GitHub Repository
+https://github.com/Xuewaonline/COMP8090SEF-Project/tree/main/Task2_SelfStudy

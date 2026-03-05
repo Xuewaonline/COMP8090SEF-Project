@@ -490,7 +490,7 @@ def build_main_content(styles):
     ))
 
     elements.append(Paragraph(
-        "https://github.com/[your-username]/COMP8090SEF-Project/tree/main/Task1_OOP",
+        "https://github.com/Xuewaonline/COMP8090SEF-Project/tree/main/Task1_OOP",
         styles['BodyText12']
     ))
 

@@ -245,7 +245,7 @@ def build_main_content():
         style_normal,
     ))
     elements.append(Paragraph(
-        "The repository link is: https://github.com/[your-username]/COMP8090SEF-Project/tree/main/Task2_SelfStudy",
+        "The repository link is: https://github.com/Xuewaonline/COMP8090SEF-Project/tree/main/Task2_SelfStudy",
         style_normal,
     ))
     elements.append(Paragraph(
